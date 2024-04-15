@@ -7,7 +7,3 @@ print(calculate.x)
 #Python always run main.py
 
 print("Hi again")
-
-
-def foo(X):
-  return x
